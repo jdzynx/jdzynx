@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b00,100:00ff41&height=180&section=header&text=SHAIKH%20JAVEED%20I.&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%40jdzynx%20%7C%20Code%20%E2%80%A2%20Security%20%E2%80%A2%20Build&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b00,100:00ff41&height=180&section=header&text=SHAIKH%20JAVEED%20Jd.&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%40jdzynx%20%7C%20Code%20%E2%80%A2%20Security%20%E2%80%A2%20Build&descAlignY=60&descSize=16" width="100%" />
 
 <!-- Animated Terminal Typing SVG -->
 <a href="https://github.com/jdzynx">
