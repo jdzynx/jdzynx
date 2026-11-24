@@ -1,4 +1,4 @@
-<!-- Hacker / Coder Theme GitHub Profile README for SHAIKH JAVEED| JD. (@jdzynx) -->
+<!-- Hacker / Coder Theme GitHub Profile README for. SHAIKH JAVEED| JD. (@jdzynx) -->
 
 <div align="center">
 
@@ -30,4 +30,4 @@
 
 ---
 
-```bash."
+```bash.". 
