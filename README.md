@@ -30,17 +30,5 @@
 
 ---
 
-```bash
-┌──(jdzynx㉿github)-[~]
-└─$ cat profile.json
-{
-  "name": "SHAIKH JAVEED I.",
-  "handle": "@jdzynx",
-  "status": "ONLINE // BUILDING & EXPLORING",
-  "socials": {
-    "github": "[https://github.com/jdzynx](https://github.com/jdzynx)",
-    "instagram": "[https://instagram.com/jdzynx](https://instagram.com/jdzynx)",
-    "twitter": "[https://x.com/jdzynx](https://x.com/jdzynx)"
-  },
-  "motto": "Eat. Sleep. Code. Repeat."
+```bash."
 }
